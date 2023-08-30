@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**sbnewman7/sbnewman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my ✨ _special_ ✨ repository `README.md` that tells all of GitHub about ME.
 
-Here are some ideas to get you started:
+YIKES!!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on relearning everything I ever knew about coding, plus some.
+- 🌱 I’m currently learning to do version control using GitHub. Woo hoo!
+- 👯 I’m looking forward to collaborating on programs that will change the world! Or at least earn an income.
+- 🤔 I’m looking for help with, um, sooo many questions! Like are our VS files inside the local git repository, or vice versa, or are both similarly named within the same directory? And are git files encoded or encrypted in any way, such as in a database, or can we just access them like any other file? (I suppose not, since I am editing this file... But I feel like they *should* be!) Our tutorial has been excellent so far, but there's a lot of gaps in this section!!! >:-(
+- 💬 Ask me about where to get a good iced chai latte with homemade boba in Crested Butte. Extra spicy!
+- 📫 How to reach me: 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I wish I had an extra spicy iced latte right now. :)
 -->
